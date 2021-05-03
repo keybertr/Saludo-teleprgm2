@@ -1,0 +1,16 @@
+C:\Users\KeybertRD\prg2\bin\Debug\net5.0\prg2.exe
+C:\Users\KeybertRD\prg2\bin\Debug\net5.0\prg2.deps.json
+C:\Users\KeybertRD\prg2\bin\Debug\net5.0\prg2.runtimeconfig.json
+C:\Users\KeybertRD\prg2\bin\Debug\net5.0\prg2.runtimeconfig.dev.json
+C:\Users\KeybertRD\prg2\bin\Debug\net5.0\prg2.dll
+C:\Users\KeybertRD\prg2\bin\Debug\net5.0\ref\prg2.dll
+C:\Users\KeybertRD\prg2\bin\Debug\net5.0\prg2.pdb
+C:\Users\KeybertRD\prg2\obj\Debug\net5.0\prg2.csprojAssemblyReference.cache
+C:\Users\KeybertRD\prg2\obj\Debug\net5.0\prg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KeybertRD\prg2\obj\Debug\net5.0\prg2.AssemblyInfoInputs.cache
+C:\Users\KeybertRD\prg2\obj\Debug\net5.0\prg2.AssemblyInfo.cs
+C:\Users\KeybertRD\prg2\obj\Debug\net5.0\prg2.csproj.CoreCompileInputs.cache
+C:\Users\KeybertRD\prg2\obj\Debug\net5.0\prg2.dll
+C:\Users\KeybertRD\prg2\obj\Debug\net5.0\ref\prg2.dll
+C:\Users\KeybertRD\prg2\obj\Debug\net5.0\prg2.pdb
+C:\Users\KeybertRD\prg2\obj\Debug\net5.0\prg2.genruntimeconfig.cache
